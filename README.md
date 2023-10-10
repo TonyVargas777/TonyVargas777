@@ -23,7 +23,8 @@
 <p align="left">   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.ciset.es/images/Glosario/mysql.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
 <p><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyvargas777&show_icons=true&locale=en&layout=compact" alt="tonyvargas777"> 
-<img align="center" width="48%" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" width="90%" alt="mern_stack"></p>
+<img align="center" width="48%" height="120%" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" width="90%" alt="mern_stack"></p>
+
  <h2 align="left">About me:</h2>
 <p style="text-align: justify;">I am a passionate web designer and developer with a unique ability to merge creativity with functionality. My goal is to create captivating digital experiences that are not only visually appealing, but also intuitive and effective in terms of usability.
 
