@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyvargas777&label=Profile%20views&color=0e75b6&style=flat" alt="tonyvargas777" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tonaco777" target="blank"><img src="https://img.shields.io/twitter/follow/tonaco777?logo=twitter&style=for-the-badge" alt="tonaco777" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tonaco777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonaco777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/tony-vargas-garcía-122b1424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tony-vargas-garcía-122b1424b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tony-vargas-garcía-122b1424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tony-vargas-garcía-122b1424b" height="30" width="40" /></a>
 <a href="https://discord.gg/tony777." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tony777." height="30" width="40" /></a>
 </p>
 
