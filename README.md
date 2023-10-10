@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/tonaco777" target="blank"><img src="https://img.shields.io/twitter/follow/tonaco777?logo=twitter&style=for-the-badge" alt="tonaco777" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tonaco777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonaco777" height="30" width="40" /></a>
@@ -22,7 +18,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyvargas777&show_icons=true&locale=en&layout=compact" alt="tonyvargas777" /></p>
 
 <p><img align="center" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" alt="mern_stack"</p>
-<p>I am a passionate web designer and developer with a unique ability to merge creativity with functionality. My goal is to create captivating digital experiences that are not only visually appealing, but also intuitive and effective in terms of usability.
+<p text-align="justify">I am a passionate web designer and developer with a unique ability to merge creativity with functionality. My goal is to create captivating digital experiences that are not only visually appealing, but also intuitive and effective in terms of usability.
 
 Every project I take on begins with extensive research on the target audience. I believe in user-centered design, ensuring that every visual element and every interaction is designed to provide an experience that meets the needs and expectations of users.
 
