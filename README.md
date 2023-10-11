@@ -43,19 +43,19 @@
 </p>
 </div>
     
-<h1>My last project</h1>
+<h1>My last project:</h1>
+<p>It is a film blog hosted on a website.
+It is made with REACT and connects to the MONGODB ATLAS database.
+It allows the user to create, read, update and delete items (CRUD).</p>
 <div align="center">
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_inicio.png" alt="imicio" width="49%"></a>
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="49%"></a>
 </div>
- <h3>Fully Reactive:</h3>
- <p>It is a website that hosts a film blog.
-It is made with REACT.
-Connects to the MONGODB ATLAS database.
-Allows the user to create, read, update and delete (CRUD) items.</p>
+ <h3>Fully Reactive:</h3> 
+ <p>Always looking for the best experience for the user. </p>
  <div>
-   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_laptop.png" alt="laptop" width="65%"></a>
-  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_mobile.png" alt="mobile"  width="32%"></a>
+   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_mobile.png" alt="mobile"  width="32%"></a>
+   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_laptop.png" alt="laptop" width="65%"></a>  
 </div>
 
 
