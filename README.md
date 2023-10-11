@@ -54,8 +54,8 @@ It is made with REACT.
 Connects to the MONGODB ATLAS database.
 Allows the user to create, read, update and delete (CRUD) items.</p>
  <div>
-   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_laptop.png" alt="laptop" width="66%"></a>
-  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_mobile.png" alt="mobile"  width="33%"></a>
+   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_laptop.png" alt="laptop" width="65%"></a>
+  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_mobile.png" alt="mobile"  width="32%"></a>
 </div>
 
 
