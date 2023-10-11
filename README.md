@@ -32,19 +32,35 @@
 </p>
 </div>
 <div>
-<p align="center">   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.ciset.es/images/Glosario/mysql.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.ciset.es/images/Glosario/mysql.png" alt="mysql" width="40" height="40"/>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
   <p align="center">
   GITHUB+MYSQL+PHP+PYTHON
 </p>
 </div>
+    
+<h1>My last project</h1>
 <div align="center">
- <img width="66%" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" alt="mern_stack">
+  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_inicio.png" alt="imicio" width="49%"></a>
+  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="49%"></a>
+</div>
+ <h3>Fully Reactive:</h3>
+ <p>It is a website that hosts a film blog.
+It is made with REACT.
+Connects to the MONGODB ATLAS database.
+Allows the user to create, read, update and delete (CRUD) items.</p>
+ <div>
+   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_laptop.png" alt="laptop" width="45%"></a>
+  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_mobile.png" alt="mobile"  height="200px"></a>
 </div>
 
 
 <div align="center">
-  <img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyvargas777&show_icons=true&locale=en&layout=compact" alt="tonyvargas777">   
+  
 </div>
 
 
