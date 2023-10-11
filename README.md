@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Full Stack Web Developer from Barcelona :nerd_face::computer:</h3>
 
 <p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;HTML+CSS+JAVASCRIPT;MERN+STACK+-+MONGODB+EXPRESS+REACT+NODEJS;Constantly+Learning"></a>
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;HTML+CSS+JAVASCRIPT;MERN+STACK;MONGODB+EXPRESS+REACT+NODEJS;Always+Learning"></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TonyVargas777&label=Profile%20views&color=0e75b6&style=flat" alt="ontador de visitas está actualmente en mantenimiento"/> </p>
 
 <h2 align="left">Connect with me:</h2>
 
@@ -17,8 +15,8 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-<div style="border: 2px solid white; padding: 10px; display: inline-block;">
-<p align="left" border="2px solid blue" padding="10px" display="inline-block"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<div>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 </div>
 <div style="border: 2 solid #0969DA; padding: 10; display: inline-block;">
