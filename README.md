@@ -1,7 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Tony Vargas</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Barcelona :nerd_face::computer:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyvargas777&label=Profile%20views&color=0e75b6&style=flat" alt="tonyvargas777"/> </p>
+<p align="center">
+  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;HTML+CSS+JAVASCRIPT;MERN+STACK+-+MONGODB+EXPRESS+REACT+NODEJS;Constantly+Learning"></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TonyVargas777&label=Profile%20views&color=0e75b6&style=flat" alt="ontador de visitas está actualmente en mantenimiento"/> </p>
 
 <h2 align="left">Connect with me:</h2>
 
@@ -28,6 +32,8 @@
 <div>
  <img align="center" width="66%" src="https://nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg" alt="mern_stack">
 </div>
+
+
 <div>
   <img align="center" width="66%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyvargas777&show_icons=true&locale=en&layout=compact" alt="tonyvargas777">   
 </div>
