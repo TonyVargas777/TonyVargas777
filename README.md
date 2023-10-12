@@ -42,7 +42,7 @@
   GITHUB+MYSQL+PHP+PYTHON
 </p>
 </div>
-    
+<h1>You can take a peek to my Portfolio:</h1>    
 <h1>My last project:</h1>
 <p>It is a film blog hosted on a website.
 It is made with REACT and connects to the MONGODB ATLAS database.
@@ -58,11 +58,9 @@ It allows the user to create, read, update and delete items (CRUD).</p>
    <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_laptop.png" alt="laptop" width="65%"></a>  
 </div>
 
-
 <div align="center">
   
 </div>
-
 
  <h2 align="center">About me:</h2>
 <p style="text-align: justify;">I am a passionate web designer and developer with a unique ability to merge creativity with functionality. My goal is to create captivating digital experiences that are not only visually appealing, but also intuitive and effective in terms of usability.
