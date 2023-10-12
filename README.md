@@ -44,8 +44,8 @@
 </div>
 <h1>You can take a peek to my Portfolio:</h1>  
     <div>
-   <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/portfolio_mobile.png" alt="mobile"  width="32%"></a>
-   <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/portfolio_laptop.png" alt="laptop" width="65%"></a>  
+   <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/portfolio_mobile.png" alt="mobile"  width="22%"></a>
+   <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/portfolio_laptop.png" alt="laptop" width="75%"></a>  
 </div>
 
 <h1>My last project:</h1>
