@@ -42,7 +42,12 @@
   GITHUB+MYSQL+PHP+PYTHON
 </p>
 </div>
-<h1>You can take a peek to my Portfolio:</h1>    
+<h1>You can take a peek to my Portfolio:</h1>  
+    <div>
+   <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/portfolio_mobile.png" alt="mobile"  width="32%"></a>
+   <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/portfolio_laptop.png" alt="laptop" width="65%"></a>  
+</div>
+
 <h1>My last project:</h1>
 <p>It is a film blog hosted on a website.
 It is made with REACT and connects to the MONGODB ATLAS database.
@@ -51,7 +56,7 @@ It allows the user to create, read, update and delete items (CRUD).</p>
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_inicio.png" alt="imicio" width="49%"></a>
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="49%"></a>
 </div>
- <h3>Fully Reactive:</h3> 
+ <h3>Fully Responsive:</h3> 
  <p>Always looking for the best user experience. </p>
  <div>
    <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_mobile.png" alt="mobile"  width="32%"></a>
