@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from Barcelona :nerd_face::computer:</h3>
 
 <p align="center">
-  <a href="https://github.com/KeyCuevasMelgarejo/KeyCuevasMelgarejo"><img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;HTML+CSS+JAVASCRIPT;MERN+STACK;MONGODB+EXPRESS+REACT+NODEJS;Always+Learning"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;HTML+CSS+JAVASCRIPT;MERN+STACK;MONGODB+EXPRESS+REACT+NODEJS;Always+Learning"></a>
 </p>
 
 <h2 align="center">Connect with me:</h2>
@@ -54,7 +54,7 @@
 
 </div>
 
-<h1>My last project:</h1>
+<h1 align="center">My last project:</h1>
 <p>It is a film blog hosted on a website.
 It is made with REACT and connects to the MONGODB ATLAS database.
 It allows the user to create, read, update and delete items (CRUD).</p>
@@ -65,7 +65,7 @@ It allows the user to create, read, update and delete items (CRUD).</p>
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_inicio.png" alt="imicio" width="33%"/></a>
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="33%"/></a>
 </div>
-<div>
+<div  align="center">
    <h3>Fully Responsive:</h3> 
    <p>Always looking for the best user experience. </p>
 </div>
