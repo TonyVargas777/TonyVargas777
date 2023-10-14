@@ -17,31 +17,12 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <div>
-<p align="center"> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<p align="center"> <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/hcj.png"  width="25%" alt="html_css_js" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/mern.png"  width="32%" alt="mern" /></a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/gmpp.png"  width="28%" alt="git" />
 </p>
-  <p align="center">
-  HTML+CSS+JAVASCRIPT
-</p>
+  
 </div>
 
-<div>
-<p align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/1*m2M7BVJ5XC96hpl_lgKIkg.gif" alt="mongodb" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.733277824.7333/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="express" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/GhQVJ0wdeWzNz1k5jlb8mKNAY4qLgoF0MB8m_Oxor9KSYmq-Q4ShP43I8HLL01BVRIGT" alt="nodejs" width="40" height="40"/> </a>   
-</p>
-  <p align="center">
-  MONGODB+EXPRESS+REACT+NODEJS
-</p>
-</div>
-<div>
-<p align="center">
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="40" height="40"/>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.ciset.es/images/Glosario/mysql.png" alt="mysql" width="40" height="40"/>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</p>
-  <p align="center">
-  GITHUB+MYSQL+PHP+PYTHON
-</p>
-</div>
+
 <div align="center">
   <h1>You can take a peek at my Portfolio:</h1>   
   
