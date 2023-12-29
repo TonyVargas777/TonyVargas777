@@ -15,7 +15,6 @@
  <a href="mailto:tonacovargas@hotmail.com" target="blank"><img align="center"
  src="https://us.123rf.com/450wm/mamanamsai/mamanamsai1501/mamanamsai150100386/35929070-email-icono-en-el-fondo-azul-limpio-vector.jpg" alt="tony777." height="40" width="40" />
 </p>
-
 <h2 align="center">Languages and Tools:</h2>
 <div>
 <p align="center"> <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/hcj.png"  width="25%" alt="html_css_js" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/mern.png"  width="32%" alt="mern" /></a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/gmpp.png"  width="28%" alt="git" />
@@ -33,7 +32,16 @@
    <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_mobile.png" alt="mobile"  width="16%"></a>
    <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_laptop.png" alt="laptop" width="52%"></a>  
 </div>
-
+<p align="center">
+<a
+            href="/cv/tony_vargas_cv.pdf" 
+            download="Tony_Vargas_CV.pdf"
+            target="_blank"
+            title="Descargar Currículum Vitae"
+          >
+            Descargar CV
+          </a>
+</p>
 </div>
 
 <h1 align="center">My last project:</h1>
