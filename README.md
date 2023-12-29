@@ -34,7 +34,7 @@
 </div>
 <p align="center">
 <a
-            href="/cv/tony_vargas_cv.pdf" 
+            href="tony_vargas_cv.pdf" 
             download="Tony_Vargas_CV.pdf"
             target="_blank"
             title="Descargar Currículum Vitae"
