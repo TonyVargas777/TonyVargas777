@@ -9,8 +9,9 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/tony-vargas-garcía-122b1424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />  
+ <a href="https://wa.me/34661871759" target="blank" title="WhatsApp"><img className="red" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40px" width="40px" />   
    <!-- <a href="https://www.instagram.com/tonaco777/" alt="tony777." height="40" width="40"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LinkedIn" height="40" width="40" /> 
-<a href="https://twitter.com/tonaco777" alt="tony777." height="40" width="40"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LinkedIn" height="40" width="40" />  -->
+<a href="https://twitter.com/tonaco777" alt="tony777." height="40" width="40"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LinkedIn" height="40" width="40" />  -->   
  <a href="mailto:tonacovargas@hotmail.com" target="blank"><img align="center"
  src="https://us.123rf.com/450wm/mamanamsai/mamanamsai1501/mamanamsai150100386/35929070-email-icono-en-el-fondo-azul-limpio-vector.jpg" alt="tony777." height="40" width="40" />
 </p>
