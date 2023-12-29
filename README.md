@@ -26,7 +26,7 @@
 <div align="center">
   <h1>You can take a peek at my Portfolio:</h1>   
   
-  https://www.TonyVargasDev.es  
+  https://www.TonyVargasDev.com
   
   <div>
    <a href="https://portafolio-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_mobile.png" alt="mobile"  width="16%"></a>
