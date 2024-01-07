@@ -17,7 +17,7 @@
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <div>
-<p align="center"> <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/hcj.avif"  width="25%" alt="html_css_js" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/mern.jpeg"  width="32%" alt="mern" /></a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/git.png"  width="28%" alt="git" />
+<p align="center"> <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/hcj.avif"  heigth="100px" alt="html_css_js" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/mern.jpeg"  width="32%" alt="mern" /></a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/git.png"  width="28%" alt="git" />
 </p>
   
 </div>
