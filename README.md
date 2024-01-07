@@ -59,11 +59,9 @@ It allows the user to create, read, update and delete items (CRUD).</p>
 <div  align="center">
    <h3>Fully Responsive:</h3> 
    <p>Always looking for the best user experience. </p>
-</div>
+</div>    
 <div  align="center">
-   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img alt="responsive" src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/DXKg.gif"  width="25%"/></a> 
-   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_mobile.png" alt="mobile"  width="14%"/></a>
-   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_laptop.png" alt="laptop" width="27%"/></a>  
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/responsive.gif" alt="responsive" width="40%"/>   
 </div>
 
 
