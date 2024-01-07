@@ -17,8 +17,8 @@
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <div>
-<p align="center"> <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/hcj.avif" height="60px"  width="39%" alt="html_css_js" /></a>
-   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/git.png" height="60px" width="9%" alt="git" /><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/mern.jpeg" height="60px" width="49%" alt="mern" /></a>
+<p align="center"> <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/hcj.avif" height="80px"  width="38%" alt="html_css_js" /></a>
+   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/git.png" height="80px" width="11%" alt="git" /><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/mern.jpeg" height="80px" width="48%" alt="mern" /></a>
 </p>
   
 </div>
