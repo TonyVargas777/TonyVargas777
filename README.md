@@ -61,7 +61,7 @@ It allows the user to create, read, update and delete items (CRUD).</p>
    <p>Always looking for the best user experience. </p>
 </div>    
 <div  align="center">
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/responsive.gif" alt="responsive" width="40%"/>   
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/responsive2.gif" alt="responsive" width="40%"/>   
 </div>
 
 
