@@ -53,8 +53,8 @@ It allows the user to create, read, update and delete items (CRUD).</p>
 
   https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/
   
-  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_inicio.png" alt="imicio" width="33%"/></a>
-  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/proyecto-modulo2/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="33%"/></a>
+  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/blog_cine_inicio.png" alt="inicio" width="33%"/></a>
+  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="33%"/></a>
 </div>
 <div  align="center">
    <h3>Fully Responsive:</h3> 
