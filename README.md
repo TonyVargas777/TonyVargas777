@@ -27,10 +27,19 @@
   
   https://www.TonyVargasDev.com
   
-  <div>
-   <a href="https://www.TonyVargasDev.com"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_mobile.png" alt="mobile"  width="16%"></a>
-   <a href="https://www.TonyVargasDev.com"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_laptop.png" alt="laptop" width="52%"></a>  
-    <a href="https://www.TonyVargasDev.com"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/qr_tonyvargasdev.jpg" alt="qr" width="28%"></a> 
+ <div>
+  <a href="https://www.TonyVargasDev.com">
+    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_mobile.png" alt="mobile" width="16%">
+  </a> 
+  <a href="https://www.TonyVargasDev.com">
+    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_laptop.png" alt="laptop" width="52%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.TonyVargasDev.com">
+    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/qr_tonyvargasdev.jpg" alt="qr" width="28%">
+  </a>
 </div>
 <p align="center">
 <a
