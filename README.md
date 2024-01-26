@@ -22,23 +22,23 @@
 </div>
 
 
-<div align="center">
+<div align="center" target="blank">
   <h1>You can take a peek at my Portfolio:</h1>   
   
   https://www.TonyVargasDev.com
   
  <div>
-  <a href="https://www.TonyVargasDev.com">
-    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_mobile.png" alt="mobile" width="16%">
+  <a href="https://www.TonyVargasDev.com" target="blank">
+    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_mobile.png" alt="mobile" width="16%" target="blank">
   </a> 
   <a href="https://www.TonyVargasDev.com">
-    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_laptop.png" alt="laptop" width="52%">
+    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/p_laptop.png" alt="laptop" width="52%" target="blank">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.TonyVargasDev.com">
-    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/qr_tonyvargasdev.jpg" alt="qr" width="28%">
+  <a href="https://www.TonyVargasDev.com" target="blank">
+    <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/qr_tonyvargasdev.jpg" alt="qr" width="28%" target="blank">
   </a>
 </div>
 <p align="center">
