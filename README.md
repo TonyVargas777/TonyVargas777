@@ -15,8 +15,8 @@
 </p>
 <h2 align="center">Languages and Tools:</h2>
 <div>
-<p align="center"><img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/Python.svg.png" height="80px" alt="html_css_js" />
-   <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/numpy.png" height="80px" width="11%" alt="git" /> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/pandas.jpeg" height="80px" alt="mern" />
+<p align="center"><img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/Python.svg.png" height="80px" alt="Python" onclick="return false;"/>
+   <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/numpy.png" height="80px" width="11%" alt="numpy" onclick="return false;"/> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/pandas.jpeg" height="80px" alt="pandas" onclick="return false;"/>
 </p>
   
 </div>
