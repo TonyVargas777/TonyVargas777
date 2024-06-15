@@ -4,24 +4,36 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;HTML+CSS+JAVASCRIPT;MERN+STACK;Data+Scientist;PYTHON;MACHINE+LEARNING+E+IA;NUMPY+PANDAS;Always+Learning"></a>
 </p>
-
+</h2>
 <h2 align="center">Connect with me:</h2>
-
 <p align="center">
  <a href="https://linkedin.com/in/tony-vargas-garcía-122b1424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />  
  <a href="https://wa.me/34661871759" target="blank" title="WhatsApp"><img className="red" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="40px" width="40px" />   
  <a href="mailto:tonacovargas@hotmail.com" target="blank"><img align="center"
  src="https://us.123rf.com/450wm/mamanamsai/mamanamsai1501/mamanamsai150100386/35929070-email-icono-en-el-fondo-azul-limpio-vector.jpg" alt="tony777." height="40" width="40" />
 </p>
-<h2 align="center">Languages and Tools:</h2>
+</h2>  
+<h1 align="center">Languages and Tools:</h1>
 <div>
-<p align="center"><img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/Python.svg.png" height="80px" alt="Python" onclick="return false;"/>
-   <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/numpy.png" height="80px" width="11%" alt="numpy" onclick="return false;"/> <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/pandas.jpeg" height="80px" alt="pandas" onclick="return false;"/>
+  <h2 align="center">Data Science:</h2>
+<p align="center">
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/Python.svg.png" height="80px" alt="Python" onclick="return false;"/> 
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/pandas.jpeg" height="80px" alt="pandas" onclick="return false;"/>
+   <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/numpy.png" height="80px" width="11%" alt="numpy" onclick="return false;"/>
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/MATPLOTLIB1.png" height="80px" alt="pandas" onclick="return false;"/>  
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/plotly.png" height="80px" alt="pandas" onclick="return false;"/>  
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/apache.jpg" height="80px" alt="pandas" onclick="return false;"/>
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/docker.webp" height="80px" alt="pandas" onclick="return false;"/>
+
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/sql.png" height="80px" alt="pandas" onclick="return false;"/>
+
+  
 </p>
   
 </div>
 
 <div>
+  <h2 align="center">Web Development:</h2>
 <p align="center"> <a href="https://www.w3schools.com" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/hcj.avif" height="80px"  width="38%" alt="html_css_js" /></a>
    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/git.png" height="80px" width="11%" alt="git" /><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/mern.jpeg" height="80px" width="48%" alt="mern" /></a>
 </p>
@@ -60,7 +72,7 @@
 </p>
 </div>
 
-<h1 align="center">My last web developmnet project:</h1>
+<h1 align="center">My last web development project:</h1>
 <p>It is a film blog hosted on a website.
 It is made with REACT and connects to the MONGODB ATLAS database.
 It allows the user to create, read, update and delete items (CRUD).</p>
