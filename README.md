@@ -17,15 +17,14 @@
 <div>
   <h2 align="center">Data Science:</h2>
 <p align="center">
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/Python.svg.png" height="80px" alt="Python" onclick="return false;"/> 
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/pandas.jpeg" height="80px" alt="pandas" onclick="return false;"/>
-   <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/numpy.png" height="80px" width="11%" alt="numpy" onclick="return false;"/>
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/MATPLOTLIB1.png" height="80px" alt="pandas" onclick="return false;"/>  
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/plotly.png" height="80px" alt="pandas" onclick="return false;"/>  
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/apache.jpg" height="80px" alt="pandas" onclick="return false;"/>
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/docker.webp" height="80px" alt="pandas" onclick="return false;"/>
-
-  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/sql.png" height="80px" alt="pandas" onclick="return false;"/>
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/Python.svg.png" height="80px" width="80px" alt="Python" onclick="return false;"/> 
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/pandas.jpeg" height="80px" width="80px" alt="pandas" onclick="return false;"/>
+   <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/numpy.png" height="80px" width="80px" width="11%" alt="numpy" onclick="return false;"/>
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/MATPLOTLIB1.png" height="80px" width="80px" alt="matplotlib" onclick="return false;"/>  
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/plotly.png" height="80px" width="80px" alt="plotly" onclick="return false;"/>  
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/apache.jpg" height="80px" width="80px" alt="apache" onclick="return false;"/>
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/docker.webp" height="80px" width="80px" alt="docker" onclick="return false;"/>
+  <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/sql.png" height="80px" width="80px" alt="sql" onclick="return false;"/>
 
   
 </p>
