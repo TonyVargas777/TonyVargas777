@@ -73,10 +73,14 @@ It is made with REACT and connects to the MONGODB ATLAS database.
 It allows the user to create, read, update and delete items (CRUD).
 </p>
 <div align="center">
-  https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/  
+
+  
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> 
     <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/blog_cine_inicio.png" alt="inicio" width="33%"/>
   </a>
+  
+  https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/  
+  
   <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> 
     <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="33%"/>
   </a>
@@ -96,14 +100,14 @@ It allows the user to create, read, update and delete items (CRUD).
 </div>
 
  <h2 align="center">About me:</h2>
-<p style="text-align: justify;">I am a passionate designer, web developer and data scientist with a unique ability to merge creativity with functionality. My goal is to create engaging digital experiences that are not only visually appealing, but also intuitive, effective and data-driven.
+<p style="text-align: justify;">I am a passionate data scientist and FullStack web developer with a unique ability to merge creativity with functionality. My goal is to create engaging digital experiences that are not only visually appealing, but also intuitive, effective and data-driven. My focus is on developing innovative solutions that combine robust data analytics with exceptional web design.
 
-Every project I take on begins with extensive research on the target audience. I believe in user-centered design, ensuring that every visual element and every interaction is designed to provide an experience that meets the needs and expectations of users, supported by data analysis.
+Every project I tackle begins with extensive research on the target audience and analysis of relevant data. I believe in user-centered design, ensuring that every visual element and interaction is designed to provide an experience that meets the needs and expectations of users, supported by detailed data and predictive analytics.
 
-My approach in web development is based on obtaining tangible results, both in terms of user experience and data generated. I use cutting-edge technologies to build websites that not only look good, but also work seamlessly across different devices and browsers, optimized through data analytics to improve their performance and effectiveness.
+My approach in web development is based on obtaining tangible results, both in terms of user experience and data generated. I use cutting-edge technologies to build websites that not only look good but also work seamlessly on different devices and browsers. Additionally, I optimize these sites through data analysis to improve their performance and effectiveness, ensuring scalable, data-driven solutions.
 
-I believe in open and fluid communication with my clients, understanding their goals and needs, and working together to turn their vision into a stunning digital reality, backed by data. Collaboration is key to achieving exceptional results, both in web development and data science.
+I believe in open and fluid communication with my clients, understanding their goals and needs, and working together to turn their vision into a stunning digital reality, backed by data analysis. Collaboration is key to achieving exceptional results in both web development and data science, and I strive to maintain a transparent and proactive working relationship.
 
-The field of design, web development and data science is constantly evolving, and I am committed to staying up to date with the latest trends and technologies. This allows me to offer fresh and innovative solutions that keep my clients at the forefront of online and data analytics.
+The fields of design, web development, and data science are constantly evolving, and I am committed to staying up to date with the latest trends and technologies. This allows me to offer fresh and innovative solutions that keep my clients at the forefront of online and data analytics. My commitment to innovation ensures that every project I undertake lives up to the highest industry standards.
 
-My skill set includes experience in HTML5, CSS3, JavaScript, as well as using frameworks such as TailWindCSS and React for web development, and Python, R, and machine learning tools for data analysis. Additionally, I have experience optimizing websites for performance and accessibility, backed by data analytics to ensure each project is fast, accessible, and supported by valuable insights.</p>
+My skill set includes experience in HTML5, CSS3, JavaScript, as well as using frameworks such as TailWindCSS and React for web development. In the field of data science, I have experience in Python, R and machine learning tools for data analysis. Additionally, I have experience optimizing websites for performance and accessibility, backed by data analysis, ensuring each project is fast, accessible, and based on valuable and accurate information.</p>
