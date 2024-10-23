@@ -22,7 +22,7 @@
 </h2>  
 <h1 align="center">Languages and Tools:</h1>
 <div>
-  <h2 align="center">Data Science:</h2>
+  <h2 align="center">Data Science & Analytics:</h2>
   <p align="center">
     <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/Python.svg.png" height="80px" width="80px" alt="Python" /> 
     <img src="https://github.com/TonyVargas777/portafolio/blob/main/src/components/img/pandas.jpeg" height="80px" width="80px" alt="pandas" />
