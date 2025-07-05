@@ -75,13 +75,13 @@ It allows the user to create, read, update and delete items (CRUD).
 <div align="center">
 
   
-  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> 
+  <a href="https://mi-blog-de-cine.vercel.app/"> 
     <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/blog_cine_inicio.png" alt="inicio" width="33%"/>
   </a>
   
-  https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/  
+  https://mi-blog-de-cine.vercel.app/  
   
-  <a href="https://proyecto-modulo2-git-main-tonyvargas777.vercel.app/"> 
+  <a href="https://mi-blog-de-cine.vercel.app/"> 
     <img src="https://github.com/TonyVargas777/portafolio/blob/main/public/img/blog_cine_articulos.png" alt="articulos" width="33%"/>
   </a>
 </div>
